@@ -1,2 +1,3 @@
 `gooog Buy !!!
 Hello Olg !!!
+irst commit na push to origin/main GH
